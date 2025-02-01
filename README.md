@@ -1,1 +1,1 @@
-# odin-recipes
+# This is a project I did to learn the basics of HTML. Here I share some of my favorite recipes in a simple way.
